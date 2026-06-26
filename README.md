@@ -105,7 +105,7 @@ git checkout -b typo-fix
 
 3. Find **any typo or wording you think could be improved** in this README and fix it.
 
-4. Add, commit, and push your changes: \ 
+4. Add, commit, and push your changes:
 git add README.md OR git add . \
 git commit -m "Fix typo in README" \
 git push -u origin typo-fix
